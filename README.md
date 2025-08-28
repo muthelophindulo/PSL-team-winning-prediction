@@ -1,6 +1,5 @@
 # 🏆 Team Winning Prediction API (under construction)
 
-![Project Banner](https://img.freepik.com/free-vector/football-match-concept-illustration_114360-11375.jpg)
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://python.org)
 [![Flask Version](https://img.shields.io/badge/flask-2.0%2B-black)](https://flask.palletsprojects.com/)
@@ -55,12 +54,14 @@ team-winning-prediction-api/
 ├── requirements.txt   # Project dependencies
 └── README.md          # Documentation
 ```
-##🚀 Installation
+## 🚀 Installation
 
 Clone the repository
 
 ```bash
 git clone https://github.com/yourusername/team-winning-prediction-api.git
+```
+```bash
 cd team-winning-prediction-api
 ```
 
