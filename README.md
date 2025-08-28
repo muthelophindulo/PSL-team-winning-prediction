@@ -45,8 +45,8 @@ Developer not liable for misuse of this educational project.
 team-winning-prediction-api/
 ├── model/             # Machine learning models & training scripts
 ├── data/              # Datasets
-├── static/            # Static files (optional)
-├── templates/         # HTML templates (if frontend added)
+├── static/            # Static files 
+├── templates/         # HTML templates 
 │   ├── base.html
 │   ├── dashboard.html
 │   └── results.html
