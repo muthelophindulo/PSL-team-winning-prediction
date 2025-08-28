@@ -54,19 +54,23 @@ team-winning-prediction-api/
 ├── app.py             # Flask application
 ├── requirements.txt   # Project dependencies
 └── README.md          # Documentation
-🚀 Installation
+```
+##🚀 Installation
 
 Clone the repository
 
+```bash
 git clone https://github.com/yourusername/team-winning-prediction-api.git
 cd team-winning-prediction-api
+```
 
+## Python Dependencies 🐍
 
-Python Dependencies 🐍
-
+```bash
 pip install -r requirements.txt
+```
 
-
-Run the Application ▶️
-
+## Run the Application ▶️
+```bash
 python app.py
+```
